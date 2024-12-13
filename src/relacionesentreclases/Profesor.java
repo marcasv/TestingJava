@@ -5,7 +5,7 @@ public class Profesor {
     
     private int id;
     private String nombre;
-    private String campo;
+    private String campo; //ste es un cambio muy xd
     
     public Profesor(String nombre, String campo) {
         this.id = contadorId;
